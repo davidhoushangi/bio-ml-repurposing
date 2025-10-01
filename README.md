@@ -1,4 +1,6 @@
-## Repurposing Biological Data for Machine Learning
+### Repurposing Biological Data for Machine Learning
+> Turning messy biological data into clean, ML-ready datasets for biomedical research and personalized medicine.
+
 Biological data is inherently messy, high-dimensional, and noisy. It is often generated for narrow experimental purposes, which makes it difficult to reuse directly for predictive modeling. This project addresses that problem by repurposing raw biological datasets into clean, ML-ready formats for tasks such as drug response prediction, protein classification, and biomarker discovery.
 
 ## Goals
