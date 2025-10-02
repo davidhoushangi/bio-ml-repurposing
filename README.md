@@ -13,7 +13,7 @@ Train baseline and advanced ML models with reproducible pipelines.
 Improve interpretability with feature importance and explainability tools.
 
 ## Project Structure
-bio-ml-repurposing/
+bio-ml-repurposing
 
 ├── data/ # raw and processed biological datasets
 
