@@ -3,7 +3,7 @@
 
 Biological data is inherently messy, high-dimensional, and noisy. It is often generated for narrow experimental purposes, which makes it difficult to reuse directly for predictive modeling. This project addresses that problem by repurposing raw biological datasets into clean, ML-ready formats for tasks such as drug response prediction, protein classification, and biomarker discovery.
 
-## Goals
+## Obsectives
 Standardize raw biological data (RNA-seq, protein sequences, SMILES) into structured features.
 
 Apply preprocessing, normalization, and splitting into train/valid/test sets.
